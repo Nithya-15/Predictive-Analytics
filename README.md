@@ -8,7 +8,7 @@ The goal of this project is to analyze historical unemployment data, perform dat
 
 ## Data
 
-The dataset used in this project is sourced from [Unemployment in America Per US State.csv](Unemployment%20in%20America%20Per%20US%20State.csv), containing information about unemployment rates across different US states over time.
+The dataset used in this project is sourced from [Unemployment in America Per US State.csv](https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state/data), containing information about unemployment rates across different US states over time.
 
 ### Data Preprocessing
 

@@ -57,19 +57,19 @@ A Long Short-Term Memory (LSTM) model is implemented to predict future unemploym
 ## Usage
 
 1. Clone the repository:
-
+git clone https://github.com/Nithya-15/predictive-analytics-project.git
 
 2. Navigate to the project directory:
-
+cd predictive-analytics-project
 
 3. Run the Jupyter Notebook:
-
+jupyter notebook Predictive_Analytics_Project.ipynb
 
 4. Follow the instructions in the notebook to execute the code and analyze the data.
 
 ## Contributors
 
-- Nithyasree Kusakula (https://github.com/your-username)
+- Nithyasree Kusakula (https://github.com/Nithya-15)
 - Navyamsh Gangavaram
 - Yash Garg
 

@@ -45,7 +45,7 @@ A Long Short-Term Memory (LSTM) model is implemented to predict future unemploym
 
 ## Files
 
-- [Unemployment in America Per US State.csv](Unemployment%20in%20America%20Per%20US%20State.csv): Raw dataset
+- [Unemployment in America Per US State.csv](https://github.com/Nithya-15/Predictive-Analytics/blob/main/Unemployment%20in%20America%20Per%20US%20State.csv): Raw dataset
 - [Predictive Analytics - Project.ipynb](https://github.com/Nithya-15/Predictive-Analytics/blob/main/Predictive_Analytics_Project.ipynb): Jupyter Notebook containing the project code
 - [README.md](README.md): Documentation providing an overview of the project
 
